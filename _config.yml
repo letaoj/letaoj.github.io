@@ -1,12 +1,12 @@
 # Site
-repository: letaoj/Resume
+repository: letaoj/letaoj.github.io
 # favicon: images/favicon.ico
 
 # Personal info
 name: Letao Jiang
 title: Software Development Engineer
 email: letaoj@gmail.com
-website: letaoj.github.io/Resume
+website: letaoj.github.io
 
 # Social links
 # twitter_username: letaoj
@@ -22,7 +22,7 @@ linkedin_username: letao-jiang-05907b58
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/letaoj_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Letao and I'm a Software Development Engineer working at Amazon. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
